@@ -8,6 +8,8 @@ Design: figma
 # HACIE-KioskDesign Results :exclamation:
 
 HACIE-KioskDesign Project = Complete :laughing: <br />
+Design Link: [Click here](https://www.figma.com/design/zphVmbna3TpnAATDDUkRdK/%ED%95%98%EC%8B%9C%EC%97%90-%EC%B9%B4%ED%8E%98-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=a0wymi1qs0mPHMCu-1)
+
 
 ## Development Story :question:
 
