@@ -20,8 +20,7 @@ This project was developed during field training.
 <!--
 Click [here](#) to visit my project.
 -->
-![이미지](https://github.com/20200890-JoHoYeon/HACIE-KioskDesign/assets/70556072/03e153da-3528-493d-925a-00858b43d631)
-
+![이미지](https://github.com/user-attachments/assets/2af59c1a-f6f9-4fd6-87d1-f5f004826d1c)
 
 Finally, I will register a photo showing the progress of the design. Thank you for your review. 😘
 
