@@ -20,7 +20,13 @@ This project was developed during field training.
 <!--
 Click [here](#) to visit my project.
 -->
-![이미지](https://github.com/user-attachments/assets/2af59c1a-f6f9-4fd6-87d1-f5f004826d1c)
+![전체 이미지](https://github.com/user-attachments/assets/7fe1c419-f385-4d23-9eb2-302a3123d9e5)
+![이미지 1](https://github.com/user-attachments/assets/52ec5e8d-3a6c-43a6-831a-80c0c5fbbd92)
+![이미지 2](https://github.com/user-attachments/assets/5caf6305-71d5-4c8c-9a7b-f23991e0d26e)
+![이미지 3](https://github.com/user-attachments/assets/629b4c84-cd22-411e-8557-5bdea4b18794)
+![이미지 4](https://github.com/user-attachments/assets/0c764204-ae1b-4c9d-96c7-48c8d3e1d132)
+
+
 
 Finally, I will register a photo showing the progress of the design. Thank you for your review. 😘
 
